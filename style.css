@@ -1,5 +1,5 @@
 .banner {
-    background: url(../gtc/assets/banner.JPG) no-repeat center center;
+    background: url(/assets/banner.JPG) no-repeat center center;
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
